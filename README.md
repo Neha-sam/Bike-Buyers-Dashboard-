@@ -18,3 +18,8 @@ The goal is to understand customer demographics, income levels, education, marit
 7. Which group has the **highest income**: Married Male, Single Male, Married Female, or Single Female?
 
 Dashboard Interaction <a href="https://github.com/Neha-sam/Bike-Buyers-Dashboard-/blob/main/Excel%20dashboard.png">View Dashboard</a>
+
+## Process
+- Cleaned and analyzed the Bike Buyers dataset using Excel
+- built Pivot Table charts, designed an interactive dashboard
+- extracted key insights on customer purchasing behavior.
