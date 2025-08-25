@@ -23,3 +23,7 @@ Dashboard Interaction <a href="https://github.com/Neha-sam/Bike-Buyers-Dashboard
 - Cleaned and analyzed the Bike Buyers dataset using Excel
 - built Pivot Table charts, designed an interactive dashboard
 - extracted key insights on customer purchasing behavior.
+
+## Dashboard
+<img width="978" height="360" alt="Excel dashboard" src="https://github.com/user-attachments/assets/4dc2bfd2-6035-4f3e-ad62-8af3a5414500" />
+
