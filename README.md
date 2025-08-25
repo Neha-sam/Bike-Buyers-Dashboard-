@@ -20,10 +20,24 @@ The goal is to understand customer demographics, income levels, education, marit
 Dashboard Interaction <a href="https://github.com/Neha-sam/Bike-Buyers-Dashboard-/blob/main/Excel%20dashboard.png">View Dashboard</a>
 
 ## Process
-- Cleaned and analyzed the Bike Buyers dataset using Excel
-- built Pivot Table charts, designed an interactive dashboard
-- extracted key insights on customer purchasing behavior.
+1. Removed blanks/duplicates, standardized values, and converted into an Excel Table.  
+2. Summarized bike purchases by Gender, Marital Status, Income, Education, Region, and Children.  
+3. Used Pie, Bar, Column, and Area charts connected to Pivot Tables.  
+4. Combined charts into one sheet with titles, labels, and slicers for interactivity.  
+5. Found that income, marital status, education, and region strongly influence bike purchase decisions.  
 
 ## Dashboard
 <img width="978" height="360" alt="Excel dashboard" src="https://github.com/user-attachments/assets/4dc2bfd2-6035-4f3e-ad62-8af3a5414500" />
 
+## Project insights
+- **Gender Distribution** → Male (51%) vs Female (49%)  
+- **Marital Status & Income** → Married customers tend to have higher income.  
+- **Education vs Bike Purchase** → Graduate degree holders are more likely to purchase.  
+- **Region Analysis** → Most buyers are from **North America**.  
+- **Children Count** → Distribution of bike purchases among families with different number of children.  
+- **Comparison of Single vs Married** → Purchasing behavior differences by marital status.  
+
+## Conclusion  
+The Excel dashboard provides valuable insights into **customer demographics and purchasing behavior**.  
+It highlights the role of **marital status, education, income, age, commute distance, and cars owned** in bike purchasing decisions.  
+These findings can help businesses with **targeted marketing, sales strategies, and customer segmentation**.  
