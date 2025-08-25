@@ -3,3 +3,7 @@
 ## Project Overview  
 This project analyzes a dataset of **bike buyers** and presents insights using an **Excel dashboard**.  
 The goal is to understand customer demographics, income levels, education, marital status, and regional factors that influence bike purchases.  
+
+
+## Dataset
+- <a herf="https://github.com/Neha-sam/Bike-Buyers-Dashboard-/blob/main/Bike_buyers%20dataset.xlsx">Dataset</a>
